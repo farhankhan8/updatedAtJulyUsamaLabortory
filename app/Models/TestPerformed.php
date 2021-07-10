@@ -19,7 +19,6 @@ class TestPerformed extends Model
         'specimen',
         'comments',
         'referred',
-//        'testResult',
     ];
 
     public function patient()
